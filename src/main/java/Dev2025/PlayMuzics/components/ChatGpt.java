@@ -1,4 +1,4 @@
-package Dev2025.PlayMuzics;
+package Dev2025.PlayMuzics.components;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Component;

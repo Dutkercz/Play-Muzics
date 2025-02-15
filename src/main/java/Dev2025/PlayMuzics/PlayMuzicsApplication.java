@@ -1,5 +1,6 @@
 package Dev2025.PlayMuzics;
 
+import Dev2025.PlayMuzics.components.ChatGpt;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
